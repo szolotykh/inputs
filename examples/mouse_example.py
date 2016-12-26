@@ -3,7 +3,7 @@
 from __future__ import print_function
 
 
-from inputs import get_mouse
+from simple_inputs import get_mouse
 
 
 def main():

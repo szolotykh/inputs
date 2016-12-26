@@ -2,7 +2,7 @@
 
 from __future__ import print_function
 
-from inputs import get_key
+from simple_inputs import get_key
 
 
 def main():
